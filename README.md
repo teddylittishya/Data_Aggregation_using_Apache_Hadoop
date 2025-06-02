@@ -2,9 +2,6 @@
 # Data Aggregation using Apache Hadoop
 
 - Author: Teddy Thomas
-- GitHub account: littishya21
-- UMD email: tedthom1@umd.edu
-- Personal email: teddylittishyathomas@gmail.com
 
 ## Project Methodology
 
